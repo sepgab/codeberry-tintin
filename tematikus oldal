@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>TinTin tematikus oldal</title>
+</head>
+<body>
+<script src="https://code.jquery.com/jquery.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<div class="page-header">
+  <h1>Tintin tematikus oldal</h1>
+</div>
+  
+<div class="alert alert-danger">
+  <strong>Figyelem!</strong> Az oldal megtekintése csak nagyon ráérőseknek ajánlott. 
+</div>
+  
+<div class="container">
+  <div class="jumbotron">
+    <span class="label label-default">mesehősök</span> <span class="label label-default">Hergé</span> <span class="label label-default">képregény</span>
+    <h1>Egy képregény, amely jellemzi korát</h1>
+    <p>A <strong> Tintin kalandjai </strong> (franciául: Les Aventures de Tintin) egy képregénysorozat, amelyet az Hergé művésznéven alkotó belga Georges Rémi (1907–1983) alkotott meg. A 20. század egyik legnépszerűbb európai képregénye: a könyveket több mint 50 nyelvre fordították le, és több mint 200 millió példányban keltek el. <span class="badge">Forrás: wikpedia</span></p>
+  </div>
+  
+<div class="row">
+  <div class="col-xs-2"</div> 
+  </div>
+  <div class="col-xs-2"</div> 
+      <img src="https://s-media-cache-ak0.pinimg.com/564x/93/7f/cf/937fcfa911583c4e40e893fb0cc25b4f.jpg" class="img-responsive img-circle img-thumbnail">
+  </div>
+  <div class="col-xs-4"</div> 
+      <img src="http://img11.hostingpics.net/pics/337670Tintin.jpg" class="img-responsive img-rounded img-thumbnail">
+  </div>   
+  <div class="col-xs-2"</div>
+      <img src="https://s-media-cache-ak0.pinimg.com/236x/b8/98/4a/b8984a7ba10aa1c135d4bd209b3be2ce.jpg" class="img-responsive img-circle img-thumbnail">
+  </div>
+  <div class="col-xs-2"</div> 
+  </div>
+</div>
+
+<div class="lead">
+   <p>Először francia nyelven jelent meg 1929. január 10-én a Le Petit Vingtième-ben, a Le XXe Siècle című belga újság gyerekmellékletében. A sorozat sikerét mutatja, hogy összegyűjtve is kiadták huszonnégy albumban, megjelent magazinként (Tintin magazin), valamint mozifilmre, rádióra, televízióra és színházra is adaptálták. </p>
+</div> 
+
+<p>Hergé rajzstílusa iskolateremtőnek számít, őt tekintik a "ligne claire" atyjának. Az elnevezés a tiszta vonalra utal, arra a letisztult puritán rajzstílusra, ami a Tintin képregényeket jellemzi. További jellemző, hogy a Tintin történetekben a háttér mindig realisztikus ábrázolású, míg a figurák karikatúra jellegűek, mind megjelenésükben, mind karakterükben. Hergé azt a balzaci elvet viszi tovább, amely szerint az embereket elsősorban a szenvedélyükön keresztül lehet jól ábrázolni, így figuráinak személyisége elég egyszerű, egy-egy tulajdonságra van alapozva. A történetek elsődleges célcsoportja a tizenéves fiúk, ezért elsősorban ifjúsági irodalomnak tekinthető. A történetek koruk társadalmi konvencióit tükrözik, ezért több album is erősen vitatott.</p>
+<div class="text-primary">
+   <p>Az első kilenc kötet eredetileg fekete-fehér kiadású volt és 1943-tól kezdve színesben újrakiadásra kerültek, az első kötet kivételével, amelynek színes verziója sosem készült el. Az erősen kommunizmusellenes, átpolitizált történetet sok kritika érte, bár egyes vélemények szerint találóan ábrázolta a szovjet valóságot. A kötetek újrakiadásai során Hergé több módosítást is eszközölt a könyveken, például a kolonialista attitűdje és az ábrázolt brutális vadászat miatt sokat kritizált második köteten a skandináv kiadás előtt, míg a hetedik köteten az angol kiadó kérésére változtatott.</p>
+</div> 
+
+<p>A német megszállás alatt a Le Petit Vingtième 1940 májusában megszűnt, ezzel félbemaradt az aktuális sorozat, A fekete arany országában közlése, mely történet csak tíz év múlva került befejezésre. A Közel-Keleten játszódó sztori helyett Hergé kevésbé támadható történetet indított el, a kábítószercsempészés témájú Az aranyollós rák-ot. A történet közlését a Le Soir nevű napilap vette át. A háború után Hergé saját magazint indított, melynek névadója legismertebb hőse, Tintin lett, azonban nem csak Tintin történeteket közölt, hanem más szerzők számára is publikációs felületet biztosított. A Tintin magazin gyorsan Belgium egyik legnépszerűbb képregényújságává nőtte ki magát, szerzői között szerepelt az Asterix-szel világhírűvé vált René Goscinny és Albert Uderzo, valamint a Michel Vaillant szerzője, Jean Graton. Hergé 1983-ban, a Tintin és az Alph-Art előkészítése közben váratlanul meghalt. A hátrahagyott vázlatait 1986-ban kiadták, amely alapján több kalózverzió is készült, a leghíresebb a kanadai művész, Yves Rodier által készített darab. Rodier jól visszaadta Hergé rajzstílusát, de ennek ellenére sem sikerült elfogadtatnia a Hergé Alapítvánnyal hivatalos kiadásként. Hergé halála óta egyetlen új Tintin képregény sem született és az alapítvány elzárkózik a folytatástól. A Tintin magazin népszerűsége Hergé halála után gyorsan lehanyatlott és 1993-ban megszűnt a kiadása.
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h3 class="panel-title">A Tintin kötetek kiadása Magyarországon</h3>
+  </div>
+  <div class="panel-body">A Tintin könyvek magyarországi kiadása a rendszerváltás előtt nem merült fel, tekintettel a történetek antikommunista politikai üzenetére, illetve a Le XXe Siècle újság elkötelezett katolicizmusa miatt. 1989-ben az Idegenforgalmi Propaganda és Kiadó kiadásában elsőként Az egyszarvú titka (az Egmont 2008-i kiadásában Az unikornis titka) című kötet jelent meg, amit azonban nem követett több. 1994-ben az Egmont kiadó újra kiadta Az egyszarvú titkát, valamint Az aranyollós rák című kötetet, de a kiadás újra félbemaradt.</div>
+</div>  
+<p>2008-ban (feltehetően a Spielberg-film munkálatainak hírére) az Egmont újra nekilátott a kiadásnak. A megjelenések gyorsan ritkulásnak indultak (2008-ban 6, 2009-2010-ben 2-2 kötet, 2011-ben egy kötet jelent meg), majd 2014-ben az Egmont kiadó kivonulása miatt végérvényesen megszakadt a kiadás.
+
+<h3 class="well">A fontosabb szereplők <small> előfordulásuk sorrendjében: </small> </h3>
+<ul>
+  <li><strong>Tintin:</strong> a címadó szereplő neve a francia csilingelést hangutánzó szóból származhat (esetleg a Martin név becézése is lehet, de erre semmi nem utal). Hergé egy korábbi figuráját Totor-nak hívták, láthatóan kedvelte a játékos hangzású neveket. Tintin neve a flamand/holland/afrikaans verzióban Kuifje, a német fordításban Tim. Egyszerre jellemzik felnőttes és gyermekes vonások, megjelenése egy tizenéves kamaszé, azonban tud autót, repülőgépet vezetni, fegyvereket használni. Családjáról egyáltalán nem esik említés az albumokban, egyedül él lakásában kutyájával, Miluval. Egyáltalán nem mutat vonzódást a nők iránt, sőt, az albumoknak csak elvétve vannak női szereplői, láthatóan fiúknak szánta a szerző. Tintin foglalkozása riporter, a kalandjait közlő Petit Vingtième újságnál dolgozik.
+  <li><strong>Milu:</strong> Tintin fehér foxi kutyája. Gondolatban gyakran vicces megjegyzéseket tesz a beszélgetésekhez, gyakran mókás reakciói vannak.
+  <li><strong>Archibald Haddock kapitány:</strong> Az aranyollós rák című albumban jelenik meg először,[3] egy alkoholbeteg hajóskapitányként, akinek a háta mögött az elsőtisztje egy bűnbandát vezet. A Tintinnel történt találkozás után visszaszerzi az önbecsülését és segít leleplezni a bűnözőket. Ezt követően Tintin barátjául szegődik, majd a Vörös Rackham kincse albumban megszerzi az egyik őse által épített Moulinsart kastélyt a komornyikkal, Nestorral együtt. Ezt követően itt él Tournesol professzorral és Nestorral.
+  <li><strong>Tryphon Tournesol professzor:</strong> A Vörös Rackham kincse albumban jelenik meg először, egy tengeralattjárót tervez a kincs felkutatására. Mindenkit az őrületbe kerget a nagyotthallásával, azonban találmányai és felfedezései sokat segítenek Tintinéknek. Haddock kapitánnyal együtt él a Moulinsart kastélyban.
+  <li><strong>Dupond és Dupont felügyelő:</strong> A belga rendőrség két legügyetlenebb felügyelője először A fáraó szivarjai című albumban jelent meg.[4] Bár a bajuszuk fazonjától eltekintve teljesen egyformák, nem testvérek, hiszen vezetéknevük egy betűben különbözik. Érdekesség, hogy egy lakásban is laknak, ruhatáruk is teljesen egyforma (mindig fekete öltönyt viselnek keménykalappal).
+  <li><strong>Nestor:</strong> A Moulinsart kastély komornyikja, az előző tulajdonostól marad rá Haddock kapitányra. Nestor a hivatásához illően mindig komoly és méltóságteljes jelenség.
+  <li><strong>Bianca Castafiore:</strong> A Tintin albumok egyetlen visszatérő női szereplője először az Ottokár jogara című albumban tűnik fel. A piknikus alkatú operaénekesnő a színpadon mindig Margit ékszeráriáját énekli Charles Gounod Faust című operájának III. felvonásából (Ah! je ris de me voir si belle). Az operarajongónak cseppet sem nevezhető Tintin és Haddock valósággal menekül a gyakran ismétlődő produkció elől.
+  <li><strong>Alcazar tábornok:</strong> A dél-amerikai banánköztársaságok puccsista katonatisztjeinek karikatúrája a fiktív San Theodoros állam vezetője, de egy-egy újabb puccs után akár késdobálóként is keresi kenyerét (A 7 kristálygömb). Először A törött fül című albumban szerepel, de az utolsó befejezett Tintin-kötetnek, a Tintin és a picaróknak is egyik főszereplője.
+  <li><strong>Roberto Rastapopulos:</strong> Tintin fő ellenfele először A fáraó szivarjai című albumban szerepel, ott amerikai filmproducerként, aki titokban egy bűnbanda vezetője. Több kötetben is visszatér, mint bűnöző, az utolsó, befejezetlen Tintin-album, a Tintin és az Alph-Art egyik szereplője is ő lett volna.
+</ul>
+  
+<h3 class="well">Megjelent kötetek <small> francia és magyar nyelven: </small> </h3>
+<table class="table table-condensed table-hover">
+  <tr class="success">
+    <th>Sorszám</th>
+    <th>Cím (kiadás éve)</th>
+    <th>Eredeti cím</th>
+    <th>Eredeti album kiadási éve</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Tintin Szovjetunióban (magyar nyelven még kiadatlan)</td>
+    <td>Les Aventures de Tintin, reporter du "Petit Vingtième", au pays des Soviets</td>
+    <td>1930</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Tintin Kongóban (magyar nyelven még kiadatlan)</td>
+    <td>Tintin au Congo</td>
+    <td>1931, színes verzió: 1946</td>
+  </tr>
+    <tr>
+    <td>3.</td>
+    <td>Tintin Amerikában (magyar nyelven még kiadatlan)</td>
+    <td>Tintin en Amérique</td>
+    <td>1932, színes verzió: 1945</td>
+  </tr>
+  <tr class="warning">
+    <td>4.</td>
+    <td>A fáraó szivarjai (2011)</td>
+    <td>Les Cigares du pharaon</td>
+    <td>1934, színes verzió: 1955</td>
+  </tr>
+  <tr>
+    <td>5.</td>
+    <td>A kék lótusz (magyar nyelven még kiadatlan)</td>
+    <td>Le Lotus bleu</td>
+    <td>1936, színes verzió: 1946</td>
+  </tr>
+  <tr class="warning">
+    <td>6.</td>
+    <td>A törött fül (2008)</td>
+    <td>L'Oreille Cassée</td>
+    <td>1937, színes verzió: 1943</td>
+  </tr>
+  <tr class="warning">
+    <td>7.</td>
+    <td>A fekete sziget (2008)</td>
+    <td>L'Ile Noire</td>
+    <td>1938, színes verzió: 1943, javított kiadás: 1966</td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>Stb. <span class="badge">Forrás: wikpedia</span></td>
+    <td>...</td>
+    <td>...</td>
+  </tr>
+</table>
+
+<h3 class="well">Vitatott témájú albumok <small> politikai vagy egyéb nézeteik miatt: </small> </h3>
+<p>Már az első Tintin-kötet, a <strong>Tintin a Szovjetunióban</strong> kavart némi vihart az antikommunista beállítottsága miatt. A történet eredetileg a Le Petit Vingtième-ben, a katolikus befolyás alatt álló Le XXe Siècle gyermekeknek szóló lapjában jelent meg. Hergé a képregény készítése idején húszas évei elején járt, a történet alakításába nagy beleszólást engedett Norbert Wallez abbénak, a Le XXe Siècle szerkesztőjének. Wallez, aki ultrakonzervatív beállítottságú volt és csodálta Benito Mussolinit, elvakultan gyűlölte a kommunizmust és az ő nyomására Hergé is szélsőségesen kritikus képet rajzolt a Szovjetunióról. Mivel a kommunizmus időszakának megítélése a mai napig erősen vitatott, a képregényt nagyon ritkán adják ki és a többi albummal ellentétben színes verziója sem készült.</p>
+<p>A második kötet, a <strong>Tintin Kongóban</strong> a mai napig elkeseredett viták kereszttüzében van.[5] A kritikák két fontos területet emelnek ki, a kongóiak a gyarmattartó szemszögéből történő ábrázolását, illetve az állatkínzással felérő vadászjeleneteket. A történet az egykori Belga Kongó területén játszódik, amely Belgium gyarmataként totális fehér elnyomás alatt élt. A belgák a bennszülöttekre vademberként tekintettek, megfosztották a gyülekezési és szavazati jogoktól őket. A képregény a korabeli látásmódot ábrázolja, Tintin az okos fehér emberként jelenik meg a buta feketék között. Ezért többször is bíróság elé került a képregény rasszizmus vádjával, azonban minden alkalommal tisztázták a vádak alól, ennek ellenére Nagy Britanniában az egyik áruházlánc a gyermekek részére nem árusítja.[6] Az állatkínzás vádját Hergé is jogosnak érezte, ezért módosította is a történetet, kitörölve egy vadászjelenetet. Az inkriminált jelenetben Tintin hiába lő többször is egy rinocéroszra, az állat vastag bőréről lepattannak a golyók, ezért egy fáról lelógva lyukat fúr az állat hátába és dinamittal felrobbantja.</p>
+<p>1933-ban Wallez abbét elmozdították a lap éléről, ezután a képregények is kevesebb politikai üzenetet tartalmaztak.</p>
+<p>Hergé 1938-1939-ben készítette el az <strong>Ottokár jogara</strong> című kötetet, amelyben ismét megjelentek a politikai utalások.[7] Az albumban két kitalált ország konfliktusa került ábrázolásra: a szláv jellegzetességeket hordozó békés Szyldávia és a katonai diktatúraként ábrázolt germán jellegű Bordűria közötti incidens. Bordűriai ügynökök egy titkos akció keretében elrabolják Szyldávia nemzeti ereklyéjét, első uralkodójuk Ottokár király jogarát. A jogar elvesztése aláássa az ifjú XII. Muszkar király uralkodói legitimációját, azonban a konfliktusba belekeveredő Tintin segít előkeríteni a jogart, leleplezi a király környezetében lévő kollaboránsokat, így Szyldávia elkerüli a megszállást és megőrzi önállóságát. A konfliktus egyértelmű utalást tartalmaz Csehszlovákia 1938-as német megszállására és az 1938-as Anschlussra. Hergé munkájában egyértelművé teszi ellenérzését a német náci diktatúrával szemben, ez az album a második világháború után komoly érvet jelentett számára a németekkel való kollaboráció vádja ellen.</p>
+<p>Végül meg kell említeni a német megszállás alatt, 1941-1942-ben készült <strong>A titokzatos csillag</strong> című kötetet. A történet szerint egy meteorit zuhan a földre, amely egy nagyon ritka fémet, úgynevezett calystén-t tartalmaz. Két expedíció indul a meteor megtalálására, az egyik egy nemzetközi kutatócsoport, amelyhez Tintin is csatlakozik, a másik egy amerikai csoport, amelyet egy new york-i üzletember, egy bizonyos Blumenstein finanszíroz. Blumenstein külső megjelenését a zsidó üzletember sztereotípiái határozzák meg. Az amerikai expedíció aljas húzásokkal igyekszik megakadályozni a nemzetközi tudóscsoportot a felfedezésben, azonban Tintin és új barátja, Haddock kapitány sikeresen megoldják a nehézségeket. Az Amerika-ellenes és antiszemita hangvétel kivételes helyzetet biztosított Hergének a német megszállás alatt. Ez a helyzet vezetett oda, hogy a második világháború után Hergét négyszer is letartóztatták és kollaboráció vádjával perbe fogták. Munkatársai közül többet is halálra ítéltek, de mindegyikük ítéletét néhány éves börtönbüntetésre enyhítették. Hergét két évre eltiltották a publikációtól, azonban felmentették a vádak alól, ügyében még maga III. Lipót belga király is közbenjárt. 1954-ben, az album újabb kiadásában Blumenstein immáron Bohlwinkel néven szerepelt és New York helyett a fiktív São Rico nevű városban élt, az egyik képkockán szereplő amerikai zászló helyére pedig egy kitalált são ricói zászló került</p>
+
+<h3 class="well">További feldolgozások <small> a teljesség igénye nélkül: </small> </h3>
+<p>1991-1992-ben kanadai-francia-belga koprodukcióban készült el a Tintin kalandjai kötetek legteljesebb rajzfilmfeldolgozása.[9] A sorozat 39 félórás epizódban dolgozta fel 21 hivatalos Tintin kötet történetét. A feldolgozásból kimaradt a Tintin Szovjetunióban és a Tintin Kongóban kötet (a fent említett sok vitát kavart látásmódjuk miatt), illetve a Tintin és az Alph-Art (tekintettel a befejezetlenségére). A sorozat készítői hűek maradtak Hergé rajzstílusához, azonban a történetek kisebb egyszerűsítésen estek át. A sorozatot Magyarországon először a HBO a kilencvenes években, majd új szinkronnal a TV2 mutatta be 2009-n.</p>
+
+<h4>Egy kis ízelítő a sorozatból:</h4>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MlzPxYStmLM" allowfullscreen></iframe>
+</div>
+<p> </p>
+<p>2011-ben Steven Spielberg rendezésében egy 3D animációs film készült Az unikornis titka, Vörös Rackham kincse és Az aranyollós rák című kötetek kombinált történetéből, amelyet a tervek szerint még két további film fog követni. Spielberg már az Indiana Jones sorozat készítésekor érdeklődött a Tintin könyvek iránt, egyfajta gyerekeknek szánt Indiana Jones-nak tekintette. 1983-ban, az Indiana Jones és a végzet temploma forgatása közben találkozni akart Hergével, hogy a megfilmesítésről tárgyaljanak, azonban a belga képregényes halála meghiúsította a találkozót. Hergé özvegye 3 évre biztosította a megfilmesítési jogokat Spielbergnek, aki azonban nem volt elégedett az elkészült forgatókönyvvel, ezért lemondott a produkció elkészítéséről. 2001-ben merült fel ismét a film elkészítése, immáron számítógépes animációként.</p>
+<p>Az Egmont kiadó a történetek fordításánál (fordító: Luca Anna) a főszereplők neveit eredeti, francia formájukban hagyta meg, míg a rajzfilmek magyarra szinkronizálásakor a nevek az angol verzióból kerültek át.</p>
+<h4>Filmelőzetes:</h4>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VaJyDXDWXq0" allowfullscreen></iframe>
+</div>
+
+<p>Az első rész producere, Peter Jackson, valamint rendezője, Steven Spielberg már az első rész után bejelentették, hogy elkészítik majd a folytatást, mégpedig fordított szereposztással, Jackson rendez, és Spielberg felel a produceri munkálatokért.</p>
+
+<div class="container">
+  <div class="jumbotron">
+   <p><strong> Téged melyik érdekel?</strong></p>
+   <div class="btn btn-primary btn-block">
+      <a href="http://kepregenydb.hu/kepregenyek/tintin-egmont-2008-2079/a-fekete-arany-orszagaban-32435/" class="list-group-item">A képregény</a>
+      <a href="https://youtu.be/CnVGmGXj-BE?list=PLR08_4ojx3CrT07sgh_ZEmMv4NuwUQdve" class="list-group-item">A rajzfilmsorozat</a>
+      <a href="https://youtu.be/N_EK_tFz9ug" class="list-group-item">A főcímdal</a>
+      <a href="https://youtu.be/rAHvup032bM?list=PLLJsvIM3YVS3ZJu10VPa2E2c9x7ykdifO" class="list-group-item">A film egésze</a>
+   </div>
+</div>
+
+
+
+</body>
+</html>
